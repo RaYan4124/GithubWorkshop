@@ -1,17 +1,27 @@
 .navigation {
     display: flex;
-    justify-content: center;
+    justify-content:space-between ;
     align-items: center;
+    height: 5em;
+    background-color: rgb(236, 214, 184);
 }
 
 .nav-items {
     display: flex;
     gap: 40px;
     list-style: none;
+    margin-right: 11em;
 }
 
 .nav-link {
     text-decoration: none;
-    color: crimson;
+    color: rgb(238, 70, 104);
     font-size: 25px;
 }
+
+#logo {
+    height: 70px;
+    width: auto;
+    margin-left: 35px;
+}
+
