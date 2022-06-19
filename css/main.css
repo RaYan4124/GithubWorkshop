@@ -18,7 +18,7 @@
 .intro {
     position: absolute;
     top: 35%;
-    left: 36.5%;
+    left: 35.5%;
 }
 
 .big-p {
@@ -48,5 +48,6 @@
 
 .btn:hover {
     background-color: black;
+    transform: scale(1.1);
 }
 
